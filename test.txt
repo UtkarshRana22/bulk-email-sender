@@ -1,0 +1,5 @@
+This is test file for  checking the function of emailbodyparser written in the gui interface containing file of email sender application. I have certain hopes that this will work fine.
+Yours Truly
+Utkarsh Rana
+
+
