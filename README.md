@@ -10,7 +10,7 @@ https://developers.google.com/gmail/api/quickstart/python
 
 >>Refer to the excel file for information regarding how the file should be formatted in order for application to work.
 
-
+>>Email Sender.py is the main module to be run
 
 #defining variables in the email body file 
 
