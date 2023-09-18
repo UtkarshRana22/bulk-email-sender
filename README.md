@@ -1,14 +1,14 @@
 https://developers.google.com/gmail/api/quickstart/python
  
-Refer to the above link for enabling GMAIL API and Configuring OAuth consent screen.
+>>Refer to the above link for enabling GMAIL API and Configuring OAuth consent screen.
 
-Download and place the creadential file as "credential.json"
+>>Download and place the creadential file as "credential.json"
 
-You can also use Firebase with this application to embed images in your emails.
+>>You can also use Firebase with this application to embed images in your emails.
 
-In aaplication_configuration.json browser path for oauth screen and a preview email can be specified
+>>In aaplication_configuration.json browser path for oauth screen and a preview email can be specified
 
-Refer to the excel file for information regarding how the file should be formatted in order for application to work.
+>>Refer to the excel file for information regarding how the file should be formatted in order for application to work.
 
 
 
