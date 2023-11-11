@@ -27,10 +27,6 @@ if not creds or not creds.valid:
     with open('token.json', 'w') as token:
         token.write(creds.to_json())
 
-
-# emails=['bibha.sanjay@gmail.com','utkarsh.abhilash1@gmail.com','utkarsh.smtrust@gmail.com','ranautkarsh870920@gmail.com','ranautkarsh8709@gmail.com','pradeeprana1976@gmail.com','rana_pradeep@hotmail.com']
-# #creating message
-# for email in emails:
 n=0
 while os.path.exists('logfile'+str(n)+'.txt'):
     n+=1
